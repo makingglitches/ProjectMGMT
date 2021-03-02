@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 18.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Creation Scripts For Project Mgmt and Doc", "..\..\..\QrCode\Queries\Creation Scripts For Project Mgmt and Doc\Creation Scripts For Project Mgmt and Doc.ssmssqlproj", "{6ABEC68E-E995-49F0-BBC5-7FA532541E83}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Creation Scripts", "Creation Scripts\Creation Scripts.ssmssqlproj", "{C2480AD4-41A8-4813-9365-974DE8CDBA40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F45D0BFF-EE25-40C2-BEF7-143004C68020}.Default|Default.ActiveCfg = Default
-		{6ABEC68E-E995-49F0-BBC5-7FA532541E83}.Default|Default.ActiveCfg = Default
+		{C2480AD4-41A8-4813-9365-974DE8CDBA40}.Default|Default.ActiveCfg = Default
+		{5ACC9D97-4A79-4F60-80A1-900F21C7ACB3}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
