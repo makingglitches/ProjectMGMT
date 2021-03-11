@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Creation Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="localhost:DESKTOP-2D6FI0A\John">
+          <Created>2021-03-02T11:28:14.0291801-07:00</Created>
+          <Type>SQL</Type>
+          <Server>localhost</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01 - Create DatabaseTypeLookup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:localhost:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>localhost</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01 - Create DatabaseTypeLookup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02 - Populate DatabaseTypeLookup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02 - Populate DatabaseTypeLookup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03 - Create Projects Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03 - Create Projects Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04 - Create DatabaseContainer Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04 - Create DatabaseContainer Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05 - Create Database Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05 - Create Database Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06 - Create Database To Project Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06 - Create Database To Project Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07 - Create Datasets or Tables Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07 - Create Datasets or Tables Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08 - Create DatasetRelationships Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08 - Create DatasetRelationships Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09 - Create File Sources Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09 - Create File Sources Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10 - Create Files Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10 - Create Files Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11 - Create FileGroups Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11 - Create FileGroups Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12 - Create Files_Filegroups table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12 - Create Files_Filegroups table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13 - Create FileGroup_Project.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13 - Create FileGroup_Project.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14 - Create Files_Project.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14 - Create Files_Project.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15 - Create FileGroupToData Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15 - Create FileGroupToData Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16 - Create FileToData Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16 - Create FileToData Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17 - Create Tags Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17 - Create Tags Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18 - Create WebLinks Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18 - Create WebLinks Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19 - Generate TagToData Creation Code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19 - Generate TagToData Creation Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20 - Generated Create TagToData  Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20 - Generated Create TagToData  Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21 - Generate WebLInkToData Creation Code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21 - Generate WebLInkToData Creation Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22 - Generated Create WebLinkToData Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>22 - Generated Create WebLinkToData Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23 - Create VCSTypeLookup Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>23 - Create VCSTypeLookup Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24 - Create SourceRepository Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24 - Create SourceRepository Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25 - Create SourceRepository_Project Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25 - Create SourceRepository_Project Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26 - Create TaskTypeLookup Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>26 - Create TaskTypeLookup Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27 - Create Tasks Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27 - Create Tasks Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28 - Create TasksChanged Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>28 - Create TasksChanged Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29 - Populate TaskTypeLookup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>29 - Populate TaskTypeLookup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30 - Create DatasetColumns Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30 - Create DatasetColumns Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31 - Create ColumnMappings Table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>31 - Create ColumnMappings Table.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
